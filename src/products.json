@@ -3,6 +3,7 @@
     "foods": {
       "dogs": [
         {
+          "id": 1,
           "image": "https://example.com/images/dog-food-chicken.png",
           "name": "Chicken Feast Dry Dog Food",
           "description": "A premium blend of chicken and grains for a healthy and happy dog.",
@@ -10,6 +11,7 @@
           "details": "Contains high-quality chicken protein, omega-3 fatty acids, and essential vitamins for a shiny coat and strong immune system."
         },
         {
+          "id": 2,
           "image": "https://example.com/images/dog-food-beef.png",
           "name": "Beef Lover's Wet Dog Food",
           "description": "Savory beef chunks in gravy, perfect for picky eaters.",
@@ -19,6 +21,7 @@
       ],
       "cats": [
         {
+          "id": 3,
           "image": "https://example.com/images/cat-food-salmon.png",
           "name": "Salmon Delight Cat Food",
           "description": "A gourmet mix of salmon and sweet potatoes for a nutritious meal.",
@@ -26,6 +29,7 @@
           "details": "Includes omega-3 fatty acids and taurine for heart health and a glossy coat."
         },
         {
+          "id": 4,
           "image": "https://example.com/images/cat-food-turkey.png",
           "name": "Turkey Feast Grain-Free Cat Food",
           "description": "Delicious turkey formula for cats with sensitive stomachs.",
@@ -37,6 +41,7 @@
     "accessories": {
       "dogs": [
         {
+          "id": 5,
           "image": "https://example.com/images/dog-collar.png",
           "name": "Reflective Dog Collar",
           "description": "A durable and reflective collar for safer walks at night.",
@@ -44,6 +49,7 @@
           "details": "Adjustable size, made with nylon and reflective stitching for visibility."
         },
         {
+          "id": 6,
           "image": "https://example.com/images/dog-toy.png",
           "name": "Chewable Dog Toy",
           "description": "A fun and durable chew toy to keep your dog entertained.",
@@ -53,6 +59,7 @@
       ],
       "cats": [
         {
+          "id": 7,
           "image": "https://example.com/images/cat-scratching-post.png",
           "name": "Cat Scratching Post",
           "description": "A sturdy scratching post to satisfy your cat's instincts.",
@@ -60,6 +67,7 @@
           "details": "Made with sisal and soft fabric, keeps your furniture safe from scratches."
         },
         {
+          "id": 8,
           "image": "https://example.com/images/cat-bed.png",
           "name": "Cozy Cat Bed",
           "description": "A plush and cozy bed for your cat to relax in comfort.",
