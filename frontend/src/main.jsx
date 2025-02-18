@@ -4,9 +4,9 @@ import App from "./App.jsx";
 import { DataStoreProvider } from "./pages/context/DataStoreProvider.jsx";
 
 createRoot(document.getElementById("root")).render(
-  <StrictMode>
-    <DataStoreProvider>
-      <App />
-    </DataStoreProvider>
-  </StrictMode>
+  // <StrictMode>
+  <DataStoreProvider>
+    <App />
+  </DataStoreProvider>
+  // </StrictMode>
 );

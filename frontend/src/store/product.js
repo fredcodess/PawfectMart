@@ -66,6 +66,7 @@ export const useProductStore = create((set, get) => ({
   },
 
   fetchProducts: async () => {
+    if (get().products.length > 0) return;
     const res = await fetch("/api/products");
     const data = await res.json();
     set({ products: data.data });

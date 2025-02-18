@@ -18,8 +18,8 @@ const ShopAllPage = ({ a, b }) => {
 
   // Fetch products on component mount
   useEffect(() => {
-    //fetchProducts();
-  }, []);
+    fetchProducts();
+  }, [fetchProducts]);
 
   // Filter products based on the search term
   useEffect(() => {
@@ -106,7 +106,7 @@ const ShopAllPage = ({ a, b }) => {
                   ${product.price.toFixed(2)}
                 </p>
                 <button
-                  className="mt-4 w-full bg-brown-800 text-white py-2 px-4 rounded hover:bg-gray-900 transition"
+                  className="mt-4 w-full bg-gray-900 text-white py-2 px-4 rounded hover:bg-gray-900 transition"
                   onClick={() => handleAddToCart(product)}
                 >
                   Add to Cart
