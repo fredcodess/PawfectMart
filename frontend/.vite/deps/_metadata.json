@@ -1,0 +1,199 @@
+{
+  "hash": "3d8c97df",
+  "configHash": "8a15334f",
+  "lockfileHash": "62f026c6",
+  "browserHash": "f84b607f",
+  "optimized": {
+    "@mui/icons-material/Favorite": {
+      "src": "../../node_modules/@mui/icons-material/esm/Favorite.js",
+      "file": "@mui_icons-material_Favorite.js",
+      "fileHash": "845468c6",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LocalMall": {
+      "src": "../../node_modules/@mui/icons-material/esm/LocalMall.js",
+      "file": "@mui_icons-material_LocalMall.js",
+      "fileHash": "7dd89311",
+      "needsInterop": false
+    },
+    "@mui/icons-material/MoreVert": {
+      "src": "../../node_modules/@mui/icons-material/esm/MoreVert.js",
+      "file": "@mui_icons-material_MoreVert.js",
+      "fileHash": "7895a049",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Person": {
+      "src": "../../node_modules/@mui/icons-material/esm/Person.js",
+      "file": "@mui_icons-material_Person.js",
+      "fileHash": "3fd88f8f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/esm/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "e7ece6c7",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Share": {
+      "src": "../../node_modules/@mui/icons-material/esm/Share.js",
+      "file": "@mui_icons-material_Share.js",
+      "fileHash": "6d4daf46",
+      "needsInterop": false
+    },
+    "@mui/material/Avatar": {
+      "src": "../../node_modules/@mui/material/Avatar/index.js",
+      "file": "@mui_material_Avatar.js",
+      "fileHash": "7b4fa101",
+      "needsInterop": false
+    },
+    "@mui/material/Box": {
+      "src": "../../node_modules/@mui/material/Box/index.js",
+      "file": "@mui_material_Box.js",
+      "fileHash": "1024c2a1",
+      "needsInterop": false
+    },
+    "@mui/material/Card": {
+      "src": "../../node_modules/@mui/material/Card/index.js",
+      "file": "@mui_material_Card.js",
+      "fileHash": "1cf9a949",
+      "needsInterop": false
+    },
+    "@mui/material/CardActions": {
+      "src": "../../node_modules/@mui/material/CardActions/index.js",
+      "file": "@mui_material_CardActions.js",
+      "fileHash": "da67305a",
+      "needsInterop": false
+    },
+    "@mui/material/CardContent": {
+      "src": "../../node_modules/@mui/material/CardContent/index.js",
+      "file": "@mui_material_CardContent.js",
+      "fileHash": "c25772fb",
+      "needsInterop": false
+    },
+    "@mui/material/CardHeader": {
+      "src": "../../node_modules/@mui/material/CardHeader/index.js",
+      "file": "@mui_material_CardHeader.js",
+      "fileHash": "2a62afba",
+      "needsInterop": false
+    },
+    "@mui/material/CardMedia": {
+      "src": "../../node_modules/@mui/material/CardMedia/index.js",
+      "file": "@mui_material_CardMedia.js",
+      "fileHash": "55a45bbf",
+      "needsInterop": false
+    },
+    "@mui/material/colors": {
+      "src": "../../node_modules/@mui/material/colors/index.js",
+      "file": "@mui_material_colors.js",
+      "fileHash": "b83fc132",
+      "needsInterop": false
+    },
+    "@mui/material/IconButton": {
+      "src": "../../node_modules/@mui/material/IconButton/index.js",
+      "file": "@mui_material_IconButton.js",
+      "fileHash": "e2929f96",
+      "needsInterop": false
+    },
+    "@mui/material/Modal": {
+      "src": "../../node_modules/@mui/material/Modal/index.js",
+      "file": "@mui_material_Modal.js",
+      "fileHash": "e4be8b7c",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "e954aaa9",
+      "needsInterop": false
+    },
+    "@mui/material/Typography": {
+      "src": "../../node_modules/@mui/material/Typography/index.js",
+      "file": "@mui_material_Typography.js",
+      "fileHash": "6e6725a7",
+      "needsInterop": false
+    },
+    "@stripe/stripe-js": {
+      "src": "../../node_modules/@stripe/stripe-js/lib/index.mjs",
+      "file": "@stripe_stripe-js.js",
+      "fileHash": "d797a1af",
+      "needsInterop": false
+    },
+    "bcryptjs": {
+      "src": "../../node_modules/bcryptjs/dist/bcrypt.js",
+      "file": "bcryptjs.js",
+      "fileHash": "470db129",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "2837492b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b309ea3e",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "abe891ac",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KQC7VD26": {
+      "file": "chunk-KQC7VD26.js"
+    },
+    "chunk-RRNZ4WU2": {
+      "file": "chunk-RRNZ4WU2.js"
+    },
+    "chunk-IA3WX2GX": {
+      "file": "chunk-IA3WX2GX.js"
+    },
+    "chunk-TAPUFPH2": {
+      "file": "chunk-TAPUFPH2.js"
+    },
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-C6RG3YSW": {
+      "file": "chunk-C6RG3YSW.js"
+    },
+    "chunk-AKCRSKRT": {
+      "file": "chunk-AKCRSKRT.js"
+    },
+    "chunk-KGVKMZIU": {
+      "file": "chunk-KGVKMZIU.js"
+    },
+    "chunk-JOJL7UHM": {
+      "file": "chunk-JOJL7UHM.js"
+    },
+    "chunk-7KY6LPK2": {
+      "file": "chunk-7KY6LPK2.js"
+    },
+    "chunk-CKPDPGRA": {
+      "file": "chunk-CKPDPGRA.js"
+    },
+    "chunk-ZNKCDLHV": {
+      "file": "chunk-ZNKCDLHV.js"
+    },
+    "chunk-7BGF5TEL": {
+      "file": "chunk-7BGF5TEL.js"
+    },
+    "chunk-VBQBTOED": {
+      "file": "chunk-VBQBTOED.js"
+    },
+    "chunk-KOS6HUMP": {
+      "file": "chunk-KOS6HUMP.js"
+    },
+    "chunk-ZSEW566P": {
+      "file": "chunk-ZSEW566P.js"
+    },
+    "chunk-KEXKKQVW": {
+      "file": "chunk-KEXKKQVW.js"
+    }
+  }
+}
